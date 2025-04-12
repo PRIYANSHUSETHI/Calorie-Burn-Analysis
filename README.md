@@ -98,7 +98,6 @@ python calories_burnt_prediction.py
  ┣ 📊exercise.csv
  ┣ 📊calories.csv
  ┣ 📄README.md
- ┣ 📄requirements.txt
 ```
 
 ---
